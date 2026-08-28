@@ -26,3 +26,23 @@ let mySymbol = Symbol("mysymbol")
 //BigInt
 let myBigInt = BigInt(1214641232667967921342477977453412341425478)
 let myBigInt2 = 12315415129311231812873817123141n
+
+//Mostramos los tipos de datos
+console.log(typeof name)
+console.log(typeof alias)
+console.log(typeof email)
+
+console.log(typeof age)
+console.log(typeof height)
+
+console.log(typeof isStudent)
+console.log(typeof isTeacher)
+
+console.log(typeof undefinedValue)
+
+console.log(typeof nullValue)
+
+console.log(typeof mySymbol)
+
+console.log(typeof myBigInt)
+console.log(typeof myBigInt2)
