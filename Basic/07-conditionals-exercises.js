@@ -77,20 +77,20 @@ if (mes === 1 || mes === 3 || mes === 5 || mes === 7 || mes === 8 || mes === 10 
 let idioma = "es";
 
 switch (idioma) {
-  case "es":
-    console.log("¡Hola!");
-    break;
-  case "en":
-    console.log("Hello!");
-    break;
-  case "fr":
-    console.log("Bonjour!");
-    break;
-  case "de":
-    console.log("Hallo!");
-    break;
-  default:
-    console.log("Idioma no reconocido");
+    case "es":
+        console.log("¡Hola!");
+        break;
+    case "en":
+        console.log("Hello!");
+        break;
+    case "fr":
+        console.log("Bonjour!");
+        break;
+    case "de":
+        console.log("Hallo!");
+        break;
+    default:
+        console.log("Idioma no reconocido");
 }
 
 // 9.
